@@ -1,0 +1,21 @@
+.responsive {
+  width: 100%;
+  height: auto;
+}
+.back {
+  background-image: ("simba.jpg");
+}
+h1 {
+  color: white;
+  font-family: "arial";
+}
+.htext {
+  color: black;
+  font-size: 50;
+  font-family: "arial";
+}
+.text {
+  color: white;
+  font-size: 15;
+  font-family: "arial";
+}
